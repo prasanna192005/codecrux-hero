@@ -1,5 +1,5 @@
 export const navItems = [
-  { name: "Play", link: "http://localhost:3001" },
+  { name: "Play", link: "https://coderuxx-pbg3.vercel.app/" },
   { name: "Visualize", link: "http://localhost:3000/AlgorithmVisualizer/AlgorithmVisualizer" },
   { name: "Community", link: "https://codecrux-community.vercel.app/" },
   { name: "Profile", link: "https://codecrux-profile.vercel.app/" },
