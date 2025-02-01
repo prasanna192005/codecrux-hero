@@ -1,8 +1,8 @@
 export const navItems = [
   { name: "Play", link: "http://localhost:3001" },
   { name: "Visualize", link: "http://localhost:3000/AlgorithmVisualizer/AlgorithmVisualizer" },
-  { name: "Community", link: "https://codecrux-community-rcuelo13o-prasanna192005s-projects.vercel.app/" },
-  { name: "Profile", link: "https://codecrux-profile-k47xsqasw-prasanna192005s-projects.vercel.app/" },
+  { name: "Community", link: "https://codecrux-community.vercel.app/" },
+  { name: "Profile", link: "https://codecrux-profile.vercel.app/" },
 ];
 
 export const gridItems = [
