@@ -1,6 +1,6 @@
 export const navItems = [
   { name: "Play", link: "https://coderuxx-vs8d.vercel.app/" },
-  { name: "Visualize", link: "http://localhost:3000/AlgorithmVisualizer/AlgorithmVisualizer" },
+  { name: "Visualize", link: "http://localhost:3002/AlgorithmVisualizer/AlgorithmVisualizer" },
   { name: "Community", link: "https://codecrux-community.vercel.app/" },
   { name: "Profile", link: "https://codecrux-profile.vercel.app/" },
 ];
